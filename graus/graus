@@ -1,0 +1,7 @@
+graus = float(raw_input())
+minutos = float(raw_input())
+segundos = float(raw_input())
+em_minutos = minutos/60
+em_segundos = segundos/3600
+graus = graus+em_minutos+em_segundos
+print "graus = %.4f" %graus

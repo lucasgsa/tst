@@ -1,0 +1,18 @@
+- input: |
+    1
+    500
+  output: |
+    TAV. R$ 100.00
+
+- input: |
+    6
+    300
+  output: |
+    Ônibus. R$ 132.00
+
+- input: |
+    3
+    220
+  output: |
+    Táxi. R$ 200.00
+

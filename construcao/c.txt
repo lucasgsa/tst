@@ -1,0 +1,1 @@
+Digite o preço da unidade do tijolo (Em Reais): Digite a altura do tijolo (Em metros): Digite o comprimento do tijolo (Em metros): Digite a altura das paredes (Em metros): Digite o comprimento das paredes (Em metros): O número total de tijolos é 6000.0 e o orçamento final é de R$ 2700.0

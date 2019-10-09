@@ -1,0 +1,18 @@
+- input: |
+    1
+    preto
+    1
+    preto
+  name: exemplo
+  output: |
+    150
+
+- input: |
+    1
+    preto
+    10
+    preto
+  name: outro
+  output: |
+    80
+

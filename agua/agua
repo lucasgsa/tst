@@ -1,0 +1,9 @@
+# coding: UTF-8
+import math
+
+velocidade_de_vazao = float(raw_input())
+seccao = (math.pi * float(raw_input())**2) / 4
+vazao = velocidade_de_vazao * seccao * 1000            #convertendo para litros
+tempo = float(raw_input())                                           #em segundos
+quantidade_de_agua = tempo * vazao
+print "Quantidade de água =", quantidade_de_agua, "litros."

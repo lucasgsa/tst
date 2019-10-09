@@ -1,0 +1,6 @@
+# coding utf-8
+# registro de mensagens
+
+mensagem = raw_input()
+timestamp = int(raw_input())
+print mensagem,"-",timestamp+300

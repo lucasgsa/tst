@@ -1,0 +1,7 @@
+# coding: UTF-8
+#Consumo energia
+
+potencia = float(raw_input())
+tempo = (float(raw_input()))*60
+gasto = (((potencia*tempo)/1000)/3.6)/1000
+print gasto,"kWh"

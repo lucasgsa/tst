@@ -1,0 +1,6 @@
+- input: |
+    90
+    d
+  output: |
+    Valor (R$): (D)ébito ou (C)rédito: Valor líquido a receber: 87.30
+

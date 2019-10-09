@@ -1,0 +1,11 @@
+# coding: UTF-8
+#Calcula Nome
+#Lucas Gabriel
+
+nome = raw_input("Nome? ")
+preco = float(raw_input("Letra? R$ "))
+quantas_letras = 0
+for let in nome:
+	quantas_letras += 1
+orcamento = quantas_letras*preco
+print "Orçamento: R$", orcamento

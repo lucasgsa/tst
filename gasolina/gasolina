@@ -1,0 +1,8 @@
+pos_1 = float(raw_input())
+tanque_1 = float(raw_input())
+pos_2 = float(raw_input())
+tanque_2 = float(raw_input())
+distancia = pos_2 - pos_1
+gasto = tanque_1 - tanque_2
+kml = distancia/gasto
+print "%.1f" %kml

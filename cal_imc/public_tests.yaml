@@ -1,0 +1,12 @@
+- input: |
+    78.0
+    1.75
+  output: |
+    IMC: 25.5 - Sobrepeso
+
+- input: |
+    75
+    1.75
+  output: |
+    IMC: 24.5 - Saudável
+
